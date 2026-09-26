@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Live Voice Assistant - Persona Matrix",
+  "description": "Real-time AI voice assistant inspired by Gemini Live featuring dynamic persona switching (Flirt, Roast, Comfort) with continuous Web Audio streaming and WebSocket pipeline.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
